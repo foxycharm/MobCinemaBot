@@ -32,6 +32,8 @@ jupyter-client==6.1.3
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 kiwisolver==1.2.0
+kinopoiskpy
+python-telegram-bot
 lxml==4.4.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
